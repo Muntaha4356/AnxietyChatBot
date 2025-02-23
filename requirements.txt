@@ -1,0 +1,12 @@
+langchain_groq
+langchain_core
+langchain_community
+pypdf
+chromadb
+sentence_transformers
+gradio
+langchain
+huggingface_hub
+numpy
+torch
+faiss-cpu
